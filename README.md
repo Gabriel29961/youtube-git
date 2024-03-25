@@ -1,4 +1,4 @@
-# curso de*git*&_github_
+# curso de _git_&_github_
 
 Hola soy tu amigo y docente digital Gabriel mendez
 
